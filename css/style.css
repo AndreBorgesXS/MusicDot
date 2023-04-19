@@ -1,0 +1,56 @@
+body{
+    background-color: #be2d2d;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 2.5em;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+}
+h2{
+    font-size: 2em;
+    margin-bottom: 0.75em;
+}
+h3{
+    font-size: 1.5em;
+    line-height: 1;
+    margin-bottom: 1em;
+}
+h4{
+    font-size: 1.2em;
+    line-height: 1.2;
+    font-weight: bold;
+    margin-bottom: 1.25em;
+}
+h5{
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+h6{
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1.5em;
+}
+p{
+    margin: 0 0 1.5em 0;
+}
+a{
+    color: #333;
+    text-decoration: none;
+}
+a:hover{
+    color: #000;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+/* Path: css\header.css */
