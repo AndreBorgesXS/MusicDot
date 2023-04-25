@@ -26,3 +26,21 @@ figure{
     text-align: center;
     background-color: whitesmoke;
 }
+
+.matriz-musicdot{
+    width: 550px;
+    align-content: center;
+}
+
+.familia-tupfeln{
+    width: 275px;
+    align-items: end;
+    align-self: last baseline;
+}
+
+.align-right{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 925%;
+}
