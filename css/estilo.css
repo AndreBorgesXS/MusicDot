@@ -44,3 +44,15 @@ figure{
     margin-right: auto;
     width: 925%;
 }
+
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+    }
+
+.coluna-60 {
+    width: 60%;
+}
+.coluna-40 {
+    width:30%;
+}
