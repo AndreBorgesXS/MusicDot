@@ -45,17 +45,46 @@ figure img {
     align-items: center;
     align-self: last baseline;
 }
-
-
-
+.contato{
+    color: #3d3d3d;
+    background-color: #0e3c50;
+    padding: 10px;
+}
 .linha{
     display: flex;
     flex-flow: row wrap;
     }
+button{
+    background-color: #0e3c50;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+div{
+    margin: 10px;
+}
 
+input{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+textarea{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
 .coluna-60 {
     width: 60%;
 }
 .coluna-40 {
     width:275px;
+}
+.coluna-50{
+    width:50%;
 }
